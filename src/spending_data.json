@@ -1,0 +1,212 @@
+[
+  {
+    "spending_id": 1,
+    "category": "Groceries",
+    "description": "Weekly grocery shopping",
+    "amount": 85.4,
+    "date": "2024-07-06"
+  },
+  {
+    "spending_id": 2,
+    "category": "Utilities",
+    "description": "Electricity bill for September",
+    "amount": 120.75,
+    "date": "2024-09-01"
+  },
+  {
+    "spending_id": 3,
+    "category": "Transportation",
+    "description": "Gas refill",
+    "amount": 45.0,
+    "date": "2024-07-08"
+  },
+  {
+    "spending_id": 4,
+    "category": "Entertainment",
+    "description": "Movie night and snacks",
+    "amount": 30.25,
+    "date": "2024-07-12"
+  },
+  {
+    "spending_id": 5,
+    "category": "Dining Out",
+    "description": "Lunch with friends",
+    "amount": 27.8,
+    "date": "2024-08-02"
+  },
+  {
+    "spending_id": 6,
+    "category": "Health",
+    "description": "Gym membership fee",
+    "amount": 55.0,
+    "date": "2024-07-01"
+  },
+  {
+    "spending_id": 7,
+    "category": "Shopping",
+    "description": "Clothing purchase",
+    "amount": 150.0,
+    "date": "2024-06-21"
+  },
+  {
+    "spending_id": 8,
+    "category": "Travel",
+    "description": "Weekend getaway expenses",
+    "amount": 300.0,
+    "date": "2023-12-15"
+  },
+  {
+    "spending_id": 9,
+    "category": "Education",
+    "description": "Online course subscription",
+    "amount": 99.99,
+    "date": "2024-07-15"
+  },
+  {
+    "spending_id": 10,
+    "category": "Miscellaneous",
+    "description": "Gift for a friend",
+    "amount": 40.0,
+    "date": "2024-07-09"
+  },
+  {
+    "spending_id": 11,
+    "category": "Groceries",
+    "description": "Organic food market",
+    "amount": 92.3,
+    "date": "2025-01-10"
+  },
+  {
+    "spending_id": 12,
+    "category": "Utilities",
+    "description": "Water bill for January",
+    "amount": 25.4,
+    "date": "2025-01-05"
+  },
+  {
+    "spending_id": 13,
+    "category": "Transportation",
+    "description": "Monthly metro card",
+    "amount": 60.0,
+    "date": "2025-02-01"
+  },
+  {
+    "spending_id": 14,
+    "category": "Entertainment",
+    "description": "Concert ticket",
+    "amount": 120.0,
+    "date": "2025-02-14"
+  },
+  {
+    "spending_id": 15,
+    "category": "Dining Out",
+    "description": "Valentine's dinner",
+    "amount": 75.0,
+    "date": "2025-02-14"
+  },
+  {
+    "spending_id": 16,
+    "category": "Health",
+    "description": "Dental check-up",
+    "amount": 110.5,
+    "date": "2025-03-10"
+  },
+  {
+    "spending_id": 17,
+    "category": "Shopping",
+    "description": "New shoes",
+    "amount": 89.99,
+    "date": "2025-03-21"
+  },
+  {
+    "spending_id": 18,
+    "category": "Travel",
+    "description": "Flight to Bangkok",
+    "amount": 450.0,
+    "date": "2025-04-05"
+  },
+  {
+    "spending_id": 19,
+    "category": "Education",
+    "description": "Book for school",
+    "amount": 29.5,
+    "date": "2025-05-03"
+  },
+  {
+    "spending_id": 20,
+    "category": "Miscellaneous",
+    "description": "Phone case replacement",
+    "amount": 19.99,
+    "date": "2025-06-17"
+  },
+  {
+    "spending_id": 21,
+    "category": "Groceries",
+    "description": "Bulk warehouse shopping",
+    "amount": 140.0,
+    "date": "2025-06-25"
+  },
+  {
+    "spending_id": 22,
+    "category": "Utilities",
+    "description": "Internet bill for June",
+    "amount": 40.0,
+    "date": "2025-06-01"
+  },
+  {
+    "spending_id": 23,
+    "category": "Transportation",
+    "description": "Bike maintenance",
+    "amount": 35.0,
+    "date": "2025-07-04"
+  },
+  {
+    "spending_id": 24,
+    "category": "Entertainment",
+    "description": "Streaming subscription",
+    "amount": 15.99,
+    "date": "2025-07-01"
+  },
+  {
+    "spending_id": 25,
+    "category": "Dining Out",
+    "description": "Food festival",
+    "amount": 55.5,
+    "date": "2025-07-20"
+  },
+  {
+    "spending_id": 26,
+    "category": "Health",
+    "description": "Vitamins and supplements",
+    "amount": 38.75,
+    "date": "2025-08-15"
+  },
+  {
+    "spending_id": 27,
+    "category": "Shopping",
+    "description": "Gadget accessories",
+    "amount": 65.0,
+    "date": "2025-08-03"
+  },
+  {
+    "spending_id": 28,
+    "category": "Travel",
+    "description": "Train tickets",
+    "amount": 60.0,
+    "date": "2025-09-12"
+  },
+  {
+    "spending_id": 29,
+    "category": "Education",
+    "description": "Workshop registration",
+    "amount": 85.0,
+    "date": "2025-10-09"
+  },
+  {
+    "spending_id": 30,
+    "category": "Miscellaneous",
+    "description": "Donation to charity",
+    "amount": 50.0,
+    "date": "2025-11-30"
+  }
+]
