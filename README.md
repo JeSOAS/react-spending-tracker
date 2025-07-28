@@ -83,17 +83,17 @@ Aleksandr Romanov
 
 ## Dashboard
 
-![Dashboard Screenshot](./public/1.png)
-![Dashboard Screenshot](./public/2.png)
-![Dashboard Screenshot](./public/3.png)
-![Dashboard Screenshot](./public/4.png)
+![Dashboard Screenshot](./public/1.jpg)
+![Dashboard Screenshot](./public/2.jpg)
+![Dashboard Screenshot](./public/3.jpg)
+![Dashboard Screenshot](./public/4.jpg)
 
 ## Journal
 
-![Journal Screenshot](./public/5.png)
-![Journal Screenshot](./public/6.png)
-![Journal Screenshot](./public/7.png)
-![Journal Screenshot](./public/8.png)
-![Journal Screenshot](./public/9.png)
-![Journal Screenshot](./public/1.png)
-![Journal Screenshot](./public/11.png)
+![Journal Screenshot](./public/5.jpg)
+![Journal Screenshot](./public/6.jpg)
+![Journal Screenshot](./public/7.jpg)
+![Journal Screenshot](./public/8.jpg)
+![Journal Screenshot](./public/9.jpg)
+![Journal Screenshot](./public/1.jpg)
+![Journal Screenshot](./public/11.jpg)
