@@ -13,6 +13,7 @@ The project helps users track their spending over time, categorize their expense
 - [Journal.jsx](#journaljsx)
 - [Styling](#styling)
 - [Group members](#group-members)
+- [Screenshots](#screenshots)
 
 ## Features
 
@@ -77,3 +78,22 @@ Used for adding and viewing individual spending entries.
 
 # Group members
 Aleksandr Romanov
+
+# Screenshots
+
+## Dashboard
+
+![Dashboard Screenshot](./public/1.png)
+![Dashboard Screenshot](./public/2.png)
+![Dashboard Screenshot](./public/3.png)
+![Dashboard Screenshot](./public/4.png)
+
+## Journal
+
+![Journal Screenshot](./public/5.png)
+![Journal Screenshot](./public/6.png)
+![Journal Screenshot](./public/7.png)
+![Journal Screenshot](./public/8.png)
+![Journal Screenshot](./public/9.png)
+![Journal Screenshot](./public/1.png)
+![Journal Screenshot](./public/11.png)
