@@ -95,5 +95,5 @@ Aleksandr Romanov
 ![Journal Screenshot](./public/7.jpg)
 ![Journal Screenshot](./public/8.jpg)
 ![Journal Screenshot](./public/9.jpg)
-![Journal Screenshot](./public/1.jpg)
+![Journal Screenshot](./public/10.jpg)
 ![Journal Screenshot](./public/11.jpg)
